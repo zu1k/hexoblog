@@ -2,20 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lgf.im/2020/why-reveice-connection-from-class-e-ip.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2020/xray-cracker.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://lgf.im/2018/xss-payload.html</loc>
     
     <lastmod>2020-10-03</lastmod>
@@ -107,48 +93,6 @@
   </url>
   
   <url>
-    <loc>https://lgf.im/2019/set-ipv6-for-every-docker-container.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2020/set-proxy-for-git.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2018/simple-regular-expression-use.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2019/some-git-skills.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2020/speedup-docker-pull.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2020/speedup-github-page.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://lgf.im/2018/sql-to-select-some-base-info.html</loc>
     
     <lastmod>2020-10-03</lastmod>
@@ -191,6 +135,20 @@
   </url>
   
   <url>
+    <loc>https://lgf.im/2020/why-reveice-connection-from-class-e-ip.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2020/xray-cracker.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lgf.im/2018/raspberry-pi-boot-script-to-send-IP-to-specified-email.html</loc>
     
     <lastmod>2020-10-03</lastmod>
@@ -219,28 +177,42 @@
   </url>
   
   <url>
-    <loc>https://lgf.im/2020/nali-golang.html</loc>
+    <loc>https://lgf.im/2019/set-ipv6-for-every-docker-container.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://lgf.im/2018/new-concept-foreign-language-online-teaching-platform-script.html</loc>
+    <loc>https://lgf.im/2020/set-proxy-for-git.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://lgf.im/2018/new-concept-foreign-language-online-teaching-platform-to-get-arbitrary-answers.html</loc>
+    <loc>https://lgf.im/2018/simple-regular-expression-use.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://lgf.im/2020/openssl-first-try-rsa-md5-base64.html</loc>
+    <loc>https://lgf.im/2019/some-git-skills.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2020/speedup-docker-pull.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2020/speedup-github-page.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
@@ -317,14 +289,35 @@
   </url>
   
   <url>
-    <loc>https://lgf.im/2018/md5-hash-length-extension-attack.html</loc>
+    <loc>https://lgf.im/2020/nali-golang.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://lgf.im/2020/hide-your-webshell.html</loc>
+    <loc>https://lgf.im/2018/new-concept-foreign-language-online-teaching-platform-script.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2018/new-concept-foreign-language-online-teaching-platform-to-get-arbitrary-answers.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2020/openssl-first-try-rsa-md5-base64.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2018/md5-hash-length-extension-attack.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
@@ -367,6 +360,13 @@
   
   <url>
     <loc>https://lgf.im/2020/hack-hackbar.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2020/hide-your-webshell.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
@@ -564,13 +564,6 @@
   </url>
   
   <url>
-    <loc>https://lgf.im/tags/sdu/</loc>
-    <lastmod>2020-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lgf.im/tags/crack/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
@@ -592,13 +585,6 @@
   </url>
   
   <url>
-    <loc>https://lgf.im/tags/SRV/</loc>
-    <lastmod>2020-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lgf.im/tags/dos/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
@@ -613,28 +599,7 @@
   </url>
   
   <url>
-    <loc>https://lgf.im/tags/compile/</loc>
-    <lastmod>2020-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lgf.im/tags/golang/</loc>
-    <lastmod>2020-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/tags/HackBar/</loc>
-    <lastmod>2020-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/tags/CTF/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -655,13 +620,6 @@
   </url>
   
   <url>
-    <loc>https://lgf.im/tags/onion/</loc>
-    <lastmod>2020-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lgf.im/tags/%E5%A5%BD%E6%96%87/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
@@ -670,13 +628,6 @@
   
   <url>
     <loc>https://lgf.im/tags/kms/</loc>
-    <lastmod>2020-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/tags/maillist/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -725,27 +676,6 @@
   </url>
   
   <url>
-    <loc>https://lgf.im/tags/MITM/</loc>
-    <lastmod>2020-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/tags/https/</loc>
-    <lastmod>2020-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/tags/hijack/</loc>
-    <lastmod>2020-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lgf.im/tags/mysql/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
@@ -782,13 +712,6 @@
   
   <url>
     <loc>https://lgf.im/tags/scan/</loc>
-    <lastmod>2020-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/tags/web/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -844,13 +767,6 @@
   </url>
   
   <url>
-    <loc>https://lgf.im/tags/gulp/</loc>
-    <lastmod>2020-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lgf.im/tags/telegram/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
@@ -865,20 +781,6 @@
   </url>
   
   <url>
-    <loc>https://lgf.im/tags/Github/</loc>
-    <lastmod>2020-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/tags/CICD/</loc>
-    <lastmod>2020-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lgf.im/tags/hexo/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
@@ -887,20 +789,6 @@
   
   <url>
     <loc>https://lgf.im/tags/ucloud/</loc>
-    <lastmod>2020-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/tags/IP/</loc>
-    <lastmod>2020-10-03</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/tags/cracker/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -922,6 +810,13 @@
   
   <url>
     <loc>https://lgf.im/tags/xss/</loc>
+    <lastmod>2020-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/tags/web/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -986,7 +881,28 @@
   </url>
   
   <url>
+    <loc>https://lgf.im/categories/reverse/</loc>
+    <lastmod>2020-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/categories/learn/</loc>
+    <lastmod>2020-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lgf.im/categories/share/</loc>
+    <lastmod>2020-10-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/categories/events/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

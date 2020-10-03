@@ -1,43 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lgf.im/2020/why-reveice-connection-from-class-e-ip.html</loc>
-    <lastmod>2020-10-03</lastmod>
-  </url>
-  <url>
-    <loc>https://lgf.im/2020/xray-cracker.html</loc>
-    <lastmod>2020-10-03</lastmod>
-  </url>
-  <url>
     <loc>https://lgf.im/2018/xss-payload.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
     <loc>https://lgf.im/2020/yuketang-exam-block-report.html</loc>
-    <lastmod>2020-10-03</lastmod>
-  </url>
-  <url>
-    <loc>https://lgf.im/2019/set-ipv6-for-every-docker-container.html</loc>
-    <lastmod>2020-10-03</lastmod>
-  </url>
-  <url>
-    <loc>https://lgf.im/2020/set-proxy-for-git.html</loc>
-    <lastmod>2020-10-03</lastmod>
-  </url>
-  <url>
-    <loc>https://lgf.im/2018/simple-regular-expression-use.html</loc>
-    <lastmod>2020-10-03</lastmod>
-  </url>
-  <url>
-    <loc>https://lgf.im/2019/some-git-skills.html</loc>
-    <lastmod>2020-10-03</lastmod>
-  </url>
-  <url>
-    <loc>https://lgf.im/2020/speedup-docker-pull.html</loc>
-    <lastmod>2020-10-03</lastmod>
-  </url>
-  <url>
-    <loc>https://lgf.im/2020/speedup-github-page.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
@@ -65,6 +33,14 @@
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
+    <loc>https://lgf.im/2020/why-reveice-connection-from-class-e-ip.html</loc>
+    <lastmod>2020-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://lgf.im/2020/xray-cracker.html</loc>
+    <lastmod>2020-10-03</lastmod>
+  </url>
+  <url>
     <loc>https://lgf.im/2018/raspberry-pi-boot-script-to-send-IP-to-specified-email.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
@@ -81,19 +57,27 @@
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
-    <loc>https://lgf.im/2020/nali-golang.html</loc>
+    <loc>https://lgf.im/2019/set-ipv6-for-every-docker-container.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
-    <loc>https://lgf.im/2018/new-concept-foreign-language-online-teaching-platform-script.html</loc>
+    <loc>https://lgf.im/2020/set-proxy-for-git.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
-    <loc>https://lgf.im/2018/new-concept-foreign-language-online-teaching-platform-to-get-arbitrary-answers.html</loc>
+    <loc>https://lgf.im/2018/simple-regular-expression-use.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
-    <loc>https://lgf.im/2020/openssl-first-try-rsa-md5-base64.html</loc>
+    <loc>https://lgf.im/2019/some-git-skills.html</loc>
+    <lastmod>2020-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://lgf.im/2020/speedup-docker-pull.html</loc>
+    <lastmod>2020-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://lgf.im/2020/speedup-github-page.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
@@ -137,11 +121,23 @@
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
-    <loc>https://lgf.im/2018/md5-hash-length-extension-attack.html</loc>
+    <loc>https://lgf.im/2020/nali-golang.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
-    <loc>https://lgf.im/2020/hide-your-webshell.html</loc>
+    <loc>https://lgf.im/2018/new-concept-foreign-language-online-teaching-platform-script.html</loc>
+    <lastmod>2020-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://lgf.im/2018/new-concept-foreign-language-online-teaching-platform-to-get-arbitrary-answers.html</loc>
+    <lastmod>2020-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://lgf.im/2020/openssl-first-try-rsa-md5-base64.html</loc>
+    <lastmod>2020-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://lgf.im/2018/md5-hash-length-extension-attack.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
@@ -166,6 +162,10 @@
   </url>
   <url>
     <loc>https://lgf.im/2020/hack-hackbar.html</loc>
+    <lastmod>2020-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://lgf.im/2020/hide-your-webshell.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
