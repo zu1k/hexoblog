@@ -1,0 +1,13 @@
+<% if(page.comments && theme.disqus.enabled){ %>
+    <div class="blog-post-comments">
+        <div id="disqus_thread">
+            <noscript><%= __('comments.no_js') %></noscript>
+        </div>
+    </div>
+<% } %>
+
+<% if(page.comments && theme.disqusjs.enabled){ %>
+    <div class="blog-post-comments">
+        <div id="disqus_thread"></div>
+    </div>
+<% } %>

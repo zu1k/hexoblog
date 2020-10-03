@@ -1,0 +1,6 @@
+<!-- styles -->
+<% if (theme.cdn.enabled) { %>
+  <link rel="stylesheet" href="<%= theme.cdn.url %>/lib/font-awesome/css/all.min.css">
+<% } else { %>
+  <%- css('lib/font-awesome/css/all.min.css') %>
+<% } %>
