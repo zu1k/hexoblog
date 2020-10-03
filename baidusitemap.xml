@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lgf.im/2020/use-github-actions-to-auto-deploy-hexo.html</loc>
-    <lastmod>2020-10-03</lastmod>
-  </url>
-  <url>
-    <loc>https://lgf.im/2020/use-ucloud-globalssh-to-speedup-server-ssh.html</loc>
-    <lastmod>2020-10-03</lastmod>
-  </url>
-  <url>
     <loc>https://lgf.im/2020/why-reveice-connection-from-class-e-ip.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
@@ -22,14 +14,6 @@
   </url>
   <url>
     <loc>https://lgf.im/2020/yuketang-exam-block-report.html</loc>
-    <lastmod>2020-10-03</lastmod>
-  </url>
-  <url>
-    <loc>https://lgf.im/2018/send-mail-via-endmail-service.html</loc>
-    <lastmod>2020-10-03</lastmod>
-  </url>
-  <url>
-    <loc>https://lgf.im/2019/set-ipv6-for-every-docker-container.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
@@ -69,7 +53,11 @@
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
-    <loc>https://lgf.im/2019/pirated-movie.html</loc>
+    <loc>https://lgf.im/2020/use-github-actions-to-auto-deploy-hexo.html</loc>
+    <lastmod>2020-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://lgf.im/2020/use-ucloud-globalssh-to-speedup-server-ssh.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
@@ -82,6 +70,18 @@
   </url>
   <url>
     <loc>https://lgf.im/2019/scan-hikvision-weak-password.html</loc>
+    <lastmod>2020-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://lgf.im/2018/send-mail-via-endmail-service.html</loc>
+    <lastmod>2020-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://lgf.im/2019/set-ipv6-for-every-docker-container.html</loc>
+    <lastmod>2020-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://lgf.im/2019/pirated-movie.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
@@ -141,6 +141,18 @@
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
+    <loc>https://lgf.im/2019/gcc-compile.html</loc>
+    <lastmod>2020-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://lgf.im/2020/golang-reverse-thinking.html</loc>
+    <lastmod>2020-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://lgf.im/2020/hack-hackbar.html</loc>
+    <lastmod>2020-10-03</lastmod>
+  </url>
+  <url>
     <loc>https://lgf.im/2020/hide-your-webshell.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
@@ -154,18 +166,6 @@
   </url>
   <url>
     <loc>https://lgf.im/2020/dos-attack-on-360-university-user.html</loc>
-    <lastmod>2020-10-03</lastmod>
-  </url>
-  <url>
-    <loc>https://lgf.im/2019/gcc-compile.html</loc>
-    <lastmod>2020-10-03</lastmod>
-  </url>
-  <url>
-    <loc>https://lgf.im/2020/golang-reverse-thinking.html</loc>
-    <lastmod>2020-10-03</lastmod>
-  </url>
-  <url>
-    <loc>https://lgf.im/2020/hack-hackbar.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
@@ -193,11 +193,11 @@
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
-    <loc>https://lgf.im/2019/bad-experience-with-name.html</loc>
+    <loc>https://lgf.im/2020/bake-sweet-potato.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
   <url>
-    <loc>https://lgf.im/2020/bake-sweet-potato.html</loc>
+    <loc>https://lgf.im/2019/bad-experience-with-name.html</loc>
     <lastmod>2020-10-03</lastmod>
   </url>
 </urlset> 
