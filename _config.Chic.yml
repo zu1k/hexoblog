@@ -16,7 +16,7 @@ favicon: /favicon.ico
 nickname: zu1k
 
 ### this variable is MarkDown form.
-description: Hi, I'm zu1k, a boy dreaming of traveling around the world. <br>This blog is used to record my study, thinking and life.
+description: I am zu1k, a boy dreaming of traveling around the world. <br>This blog is used to record my study, thinking and life.
 avatar:
   url: /image/logo.jpg
   gravatar:
@@ -43,11 +43,12 @@ links_icon_enable: false
 ## Post_meta
 post_meta_enable: true
 
-post_author_enable: true
+post_author_enable: false
 post_date_enable: true
 post_category_enable: true
 ## Post copyright
 post_copyright_enable: false
+post_busuanzi_enable: true
 
 ## toc
 post_toc_enable: true
