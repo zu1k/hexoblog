@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lgf.im/2020/why-reveice-connection-from-class-e-ip.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2020/xray-cracker.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2018/xss-payload.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2020/yuketang-exam-block-report.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lgf.im/manifest.json</loc>
     
     <lastmod>2020-10-03</lastmod>
@@ -10,6 +38,34 @@
   
   <url>
     <loc>https://lgf.im/vercel.json</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/about/index.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/categories/index.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/category/index.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/donate/index.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
@@ -45,76 +101,6 @@
   
   <url>
     <loc>https://lgf.im/tags/index.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2020/use-github-actions-to-auto-deploy-hexo.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2020/use-ucloud-globalssh-to-speedup-server-ssh.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2020/why-reveice-connection-from-class-e-ip.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2020/xray-cracker.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2018/xss-payload.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2020/yuketang-exam-block-report.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/about/index.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/categories/index.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/category/index.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/donate/index.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
@@ -198,6 +184,20 @@
   </url>
   
   <url>
+    <loc>https://lgf.im/2020/use-github-actions-to-auto-deploy-hexo.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2020/use-ucloud-globalssh-to-speedup-server-ssh.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lgf.im/2019/pirated-movie.html</loc>
     
     <lastmod>2020-10-03</lastmod>
@@ -220,6 +220,41 @@
   
   <url>
     <loc>https://lgf.im/2019/scan-hikvision-weak-password.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2020/mysql-concat-concat-ws-group-concat.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2020/nali-golang.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2018/new-concept-foreign-language-online-teaching-platform-script.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2018/new-concept-foreign-language-online-teaching-platform-to-get-arbitrary-answers.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2020/openssl-first-try-rsa-md5-base64.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
@@ -282,42 +317,14 @@
   </url>
   
   <url>
-    <loc>https://lgf.im/2020/mysql-concat-concat-ws-group-concat.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2020/nali-golang.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2018/new-concept-foreign-language-online-teaching-platform-script.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2018/new-concept-foreign-language-online-teaching-platform-to-get-arbitrary-answers.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2020/openssl-first-try-rsa-md5-base64.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://lgf.im/2018/md5-hash-length-extension-attack.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2020/hide-your-webshell.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
@@ -366,14 +373,21 @@
   </url>
   
   <url>
-    <loc>https://lgf.im/2020/hide-your-webshell.html</loc>
+    <loc>https://lgf.im/2018/face-detection-and-recognition-basic-tutorial.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://lgf.im/2018/face-detection-and-recognition-basic-tutorial.html</loc>
+    <loc>https://lgf.im/2018/c-cpp-string-op.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2020/crack-sdu-online-exam-software.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
@@ -395,20 +409,6 @@
   
   <url>
     <loc>https://lgf.im/2018/bypass-tech-for-sql-injection-keyword-filtering.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2018/c-cpp-string-op.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2020/crack-sdu-online-exam-software.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
