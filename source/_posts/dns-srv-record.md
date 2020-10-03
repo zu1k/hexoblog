@@ -2,7 +2,6 @@
 title: DNS中SRV记录
 tags:
   - DNS
-  - SRV
 categories:
   - coding
 date: 2020-03-24 13:54:03

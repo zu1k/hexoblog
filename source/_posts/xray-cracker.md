@@ -2,11 +2,11 @@
 title: xray社区高级版破解
 tags:
   - coding
-  - cracker
+  - crack
   - keygen
   - xray
 categories:
-  - coding
+  - reverse
 keywords:
   - cracker
   - keygen

@@ -3,7 +3,6 @@ title: 加快Github Pages国内访问速度
 tags:
   - github
   - jsdelivr
-  - gulp
   - coding
 categories:
   - coding

@@ -3,9 +3,8 @@ title: 学习Linux中的SUID机制
 tags:
   - linux
   - suid
-  - coding
 categories:
-  - coding
+  - learn
 date: 2020-03-30 11:36:25
 ---
 

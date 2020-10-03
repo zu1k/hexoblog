@@ -2,11 +2,8 @@
 title: Github等大面积https劫持
 tags:
   - github
-  - MITM
-  - https
-  - hijack
 categories:
-  - coding
+  - events
 date: 2020-03-27 8:47:11
 ---
 

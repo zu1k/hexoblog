@@ -1,10 +1,9 @@
 ---
 title: 一个来自保留IP地址的连接
 tags:
-  - IP
   - tor
 categories:
-  - coding
+  - events
 date: 2020-05-25 15:22:09
 ---
 

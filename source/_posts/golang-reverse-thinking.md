@@ -5,7 +5,7 @@ tags:
   - reverse
   - golang
 categories:
-  - coding
+  - reverse
 date: 2020-06-20 17:48:53
 ---
 

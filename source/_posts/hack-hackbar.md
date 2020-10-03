@@ -1,8 +1,6 @@
 ---
 title: HackBar破解
 tags:
-  - HackBar
-  - CTF
   - coding
 categories:
   - coding

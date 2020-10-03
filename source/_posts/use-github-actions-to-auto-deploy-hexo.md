@@ -1,8 +1,7 @@
 ---
 title: 使用Github Actions对Hexo博客自动部署
 tags:
-  - Github
-  - CICD
+  - github
   - coding
   - hexo
 categories:
