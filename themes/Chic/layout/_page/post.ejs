@@ -21,7 +21,7 @@
                     <% } %>
                     <% if(page.categories.length!==0 && theme.post_category_enable){ %>
                         <span class="post-category">
-                    Category:
+                    &nbsp;Category:
                             <% page.categories.forEach(item=>{ %>
                                 <a href="<%- url_for(item.path) %>"><%- item.name %></a>
                             <% }) %>
@@ -29,7 +29,7 @@
                     <% } %>
                     <% if(theme.post_busuanzi_enable){ %>
                         <span class="post-busuanzi">
-                            <span id="busuanzi_container_page_pv">Read: <span id="busuanzi_value_page_pv"></span></span>
+                            <span id="busuanzi_container_page_pv">&nbsp;Read: <span id="busuanzi_value_page_pv"></span></span>
                         </span>
                     <% } %>
                 </div>
