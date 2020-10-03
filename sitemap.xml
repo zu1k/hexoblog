@@ -16,41 +16,6 @@
   </url>
   
   <url>
-    <loc>https://lgf.im/about/index.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/categories/index.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/category/index.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/donate/index.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/feed/index.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://lgf.im/links/index.html</loc>
     
     <lastmod>2020-10-03</lastmod>
@@ -73,34 +38,6 @@
   
   <url>
     <loc>https://lgf.im/tags/index.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2018/sql-to-select-some-base-info.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2019/telegram-keyword-reply-bot.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2019/thinking-12-16.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2020/ubuntu-iptables-nat.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
@@ -149,21 +86,35 @@
   </url>
   
   <url>
-    <loc>https://lgf.im/2018/raspberry-pi-boot-script-to-send-IP-to-specified-email.html</loc>
+    <loc>https://lgf.im/about/index.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://lgf.im/2020/redirect-in-shell.html</loc>
+    <loc>https://lgf.im/categories/index.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://lgf.im/2019/scan-hikvision-weak-password.html</loc>
+    <loc>https://lgf.im/category/index.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/donate/index.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/feed/index.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
@@ -219,6 +170,34 @@
   </url>
   
   <url>
+    <loc>https://lgf.im/2018/sql-to-select-some-base-info.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2019/telegram-keyword-reply-bot.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2019/thinking-12-16.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2020/ubuntu-iptables-nat.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lgf.im/2019/pirated-movie.html</loc>
     
     <lastmod>2020-10-03</lastmod>
@@ -226,7 +205,21 @@
   </url>
   
   <url>
-    <loc>https://lgf.im/2020/how-do-onion-service-work.html</loc>
+    <loc>https://lgf.im/2018/raspberry-pi-boot-script-to-send-IP-to-specified-email.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2020/redirect-in-shell.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2019/scan-hikvision-weak-password.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
@@ -324,6 +317,20 @@
   </url>
   
   <url>
+    <loc>https://lgf.im/2020/how-do-onion-service-work.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2020/hide-your-webshell.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lgf.im/2018/crawl-all-the-courses-of-the-educational-administration-system-and-store-them-in-the-database.html</loc>
     
     <lastmod>2020-10-03</lastmod>
@@ -360,13 +367,6 @@
   
   <url>
     <loc>https://lgf.im/2020/hack-hackbar.html</loc>
-    
-    <lastmod>2020-10-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lgf.im/2020/hide-your-webshell.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
@@ -415,14 +415,14 @@
   </url>
   
   <url>
-    <loc>https://lgf.im/2020/bake-sweet-potato.html</loc>
+    <loc>https://lgf.im/2019/bad-experience-with-name.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://lgf.im/2019/bad-experience-with-name.html</loc>
+    <loc>https://lgf.im/2020/bake-sweet-potato.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
