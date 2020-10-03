@@ -2,413 +2,427 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.lgf.im/manifest.json</loc>
+    <loc>https://lgf.im/manifest.json</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/vercel.json</loc>
+    <loc>https://lgf.im/vercel.json</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/donate/</loc>
+    <loc>https://lgf.im/feed/index.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/feed/</loc>
+    <loc>https://lgf.im/links/index.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/links/</loc>
+    <loc>https://lgf.im/search/index.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/search/</loc>
+    <loc>https://lgf.im/tag/index.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/</loc>
+    <loc>https://lgf.im/tags/index.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/use-github-actions-to-auto-deploy-hexo.html</loc>
+    <loc>https://lgf.im/2020/use-github-actions-to-auto-deploy-hexo.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/use-ucloud-globalssh-to-speedup-server-ssh.html</loc>
+    <loc>https://lgf.im/2020/use-ucloud-globalssh-to-speedup-server-ssh.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/why-reveice-connection-from-class-e-ip.html</loc>
+    <loc>https://lgf.im/2020/why-reveice-connection-from-class-e-ip.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/xray-cracker.html</loc>
+    <loc>https://lgf.im/2020/xray-cracker.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2018/xss-payload.html</loc>
+    <loc>https://lgf.im/2018/xss-payload.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/yuketang-exam-block-report.html</loc>
+    <loc>https://lgf.im/2020/yuketang-exam-block-report.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/about/</loc>
+    <loc>https://lgf.im/about/index.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/categories/</loc>
+    <loc>https://lgf.im/categories/index.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2018/raspberry-pi-boot-script-to-send-IP-to-specified-email.html</loc>
+    <loc>https://lgf.im/category/index.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/redirect-in-shell.html</loc>
+    <loc>https://lgf.im/donate/index.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2019/scan-hikvision-weak-password.html</loc>
+    <loc>https://lgf.im/2018/send-mail-via-endmail-service.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2018/send-mail-via-endmail-service.html</loc>
+    <loc>https://lgf.im/2019/set-ipv6-for-every-docker-container.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2019/set-ipv6-for-every-docker-container.html</loc>
+    <loc>https://lgf.im/2020/set-proxy-for-git.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/set-proxy-for-git.html</loc>
+    <loc>https://lgf.im/2018/simple-regular-expression-use.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2018/simple-regular-expression-use.html</loc>
+    <loc>https://lgf.im/2019/some-git-skills.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2019/some-git-skills.html</loc>
+    <loc>https://lgf.im/2020/speedup-docker-pull.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/speedup-docker-pull.html</loc>
+    <loc>https://lgf.im/2020/speedup-github-page.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/speedup-github-page.html</loc>
+    <loc>https://lgf.im/2018/sql-to-select-some-base-info.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2018/sql-to-select-some-base-info.html</loc>
+    <loc>https://lgf.im/2019/telegram-keyword-reply-bot.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2019/telegram-keyword-reply-bot.html</loc>
+    <loc>https://lgf.im/2019/thinking-12-16.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2019/thinking-12-16.html</loc>
+    <loc>https://lgf.im/2020/ubuntu-iptables-nat.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/ubuntu-iptables-nat.html</loc>
+    <loc>https://lgf.im/2019/pirated-movie.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2019/pirated-movie.html</loc>
+    <loc>https://lgf.im/2018/raspberry-pi-boot-script-to-send-IP-to-specified-email.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2018/if-time-could-stop-at-the-moment-when-we-first-met.html</loc>
+    <loc>https://lgf.im/2020/redirect-in-shell.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/kms.html</loc>
+    <loc>https://lgf.im/2019/scan-hikvision-weak-password.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2019/learning-maillist.html</loc>
+    <loc>https://lgf.im/2020/how-do-onion-service-work.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/linux-add-swap.html</loc>
+    <loc>https://lgf.im/2018/if-time-could-stop-at-the-moment-when-we-first-met.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/linux-suid.html</loc>
+    <loc>https://lgf.im/2020/kms.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2018/md5-compare-0e.html</loc>
+    <loc>https://lgf.im/2019/learning-maillist.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/mitm-https-hijack-github.html</loc>
+    <loc>https://lgf.im/2020/linux-add-swap.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/mysql-concat-concat-ws-group-concat.html</loc>
+    <loc>https://lgf.im/2020/linux-suid.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/nali-golang.html</loc>
+    <loc>https://lgf.im/2018/md5-compare-0e.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2018/new-concept-foreign-language-online-teaching-platform-script.html</loc>
+    <loc>https://lgf.im/2020/mitm-https-hijack-github.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2018/new-concept-foreign-language-online-teaching-platform-to-get-arbitrary-answers.html</loc>
+    <loc>https://lgf.im/2020/mysql-concat-concat-ws-group-concat.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/openssl-first-try-rsa-md5-base64.html</loc>
+    <loc>https://lgf.im/2020/nali-golang.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2018/md5-hash-length-extension-attack.html</loc>
+    <loc>https://lgf.im/2018/new-concept-foreign-language-online-teaching-platform-script.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/how-do-onion-service-work.html</loc>
+    <loc>https://lgf.im/2018/new-concept-foreign-language-online-teaching-platform-to-get-arbitrary-answers.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/dns-srv-record.html</loc>
+    <loc>https://lgf.im/2020/openssl-first-try-rsa-md5-base64.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/dos-attack-on-360-university-user.html</loc>
+    <loc>https://lgf.im/2018/md5-hash-length-extension-attack.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2019/gcc-compile.html</loc>
+    <loc>https://lgf.im/2018/crawl-all-the-courses-of-the-educational-administration-system-and-store-them-in-the-database.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/golang-reverse-thinking.html</loc>
+    <loc>https://lgf.im/2020/dns-srv-record.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/hack-hackbar.html</loc>
+    <loc>https://lgf.im/2020/dos-attack-on-360-university-user.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/hide-your-webshell.html</loc>
+    <loc>https://lgf.im/2019/gcc-compile.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2018/face-detection-and-recognition-basic-tutorial.html</loc>
+    <loc>https://lgf.im/2020/golang-reverse-thinking.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2018/crawl-all-the-courses-of-the-educational-administration-system-and-store-them-in-the-database.html</loc>
+    <loc>https://lgf.im/2020/hack-hackbar.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2018/block-all-IPs-in-a-country.html</loc>
+    <loc>https://lgf.im/2020/hide-your-webshell.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/brush-votes.html</loc>
+    <loc>https://lgf.im/2018/face-detection-and-recognition-basic-tutorial.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2018/bypass-tech-for-sql-injection-keyword-filtering.html</loc>
+    <loc>https://lgf.im/2018/block-all-IPs-in-a-country.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2018/c-cpp-string-op.html</loc>
+    <loc>https://lgf.im/2020/brush-votes.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/crack-sdu-online-exam-software.html</loc>
+    <loc>https://lgf.im/2018/bypass-tech-for-sql-injection-keyword-filtering.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2020/bake-sweet-potato.html</loc>
+    <loc>https://lgf.im/2018/c-cpp-string-op.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/2019/bad-experience-with-name.html</loc>
+    <loc>https://lgf.im/2020/crack-sdu-online-exam-software.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2020/bake-sweet-potato.html</loc>
+    
+    <lastmod>2020-10-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lgf.im/2019/bad-experience-with-name.html</loc>
     
     <lastmod>2020-10-03</lastmod>
     
@@ -416,7 +430,7 @@
   
 
   <url>
-    <loc>https://blog.lgf.im/</loc>
+    <loc>https://lgf.im/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -424,525 +438,525 @@
 
   
   <url>
-    <loc>https://blog.lgf.im/tags/ctf/</loc>
+    <loc>https://lgf.im/tags/ctf/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/ssh/</loc>
+    <loc>https://lgf.im/tags/ssh/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/thinking/</loc>
+    <loc>https://lgf.im/tags/thinking/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/name/</loc>
+    <loc>https://lgf.im/tags/name/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/domain/</loc>
+    <loc>https://lgf.im/tags/domain/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/bad/</loc>
+    <loc>https://lgf.im/tags/bad/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/cooking/</loc>
+    <loc>https://lgf.im/tags/cooking/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/bake/</loc>
+    <loc>https://lgf.im/tags/bake/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/ipset/</loc>
+    <loc>https://lgf.im/tags/ipset/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/iptables/</loc>
+    <loc>https://lgf.im/tags/iptables/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/linux/</loc>
+    <loc>https://lgf.im/tags/linux/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/shell/</loc>
+    <loc>https://lgf.im/tags/shell/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/coding/</loc>
+    <loc>https://lgf.im/tags/coding/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/sql/</loc>
+    <loc>https://lgf.im/tags/sql/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/bypass/</loc>
+    <loc>https://lgf.im/tags/bypass/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/c/</loc>
+    <loc>https://lgf.im/tags/c/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/c/</loc>
+    <loc>https://lgf.im/tags/c/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/reverse/</loc>
+    <loc>https://lgf.im/tags/reverse/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/sdu/</loc>
+    <loc>https://lgf.im/tags/sdu/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/crack/</loc>
+    <loc>https://lgf.im/tags/crack/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/python/</loc>
+    <loc>https://lgf.im/tags/python/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/DNS/</loc>
+    <loc>https://lgf.im/tags/DNS/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/SRV/</loc>
+    <loc>https://lgf.im/tags/SRV/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/dos/</loc>
+    <loc>https://lgf.im/tags/dos/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/gcc/</loc>
+    <loc>https://lgf.im/tags/gcc/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/compile/</loc>
+    <loc>https://lgf.im/tags/compile/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/golang/</loc>
+    <loc>https://lgf.im/tags/golang/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/HackBar/</loc>
+    <loc>https://lgf.im/tags/HackBar/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/CTF/</loc>
+    <loc>https://lgf.im/tags/CTF/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/webshell/</loc>
+    <loc>https://lgf.im/tags/webshell/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/tor/</loc>
+    <loc>https://lgf.im/tags/tor/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/onion/</loc>
+    <loc>https://lgf.im/tags/onion/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/%E5%A5%BD%E6%96%87/</loc>
+    <loc>https://lgf.im/tags/%E5%A5%BD%E6%96%87/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/kms/</loc>
+    <loc>https://lgf.im/tags/kms/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/maillist/</loc>
+    <loc>https://lgf.im/tags/maillist/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/mail/</loc>
+    <loc>https://lgf.im/tags/mail/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/swap/</loc>
+    <loc>https://lgf.im/tags/swap/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/suid/</loc>
+    <loc>https://lgf.im/tags/suid/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/md5/</loc>
+    <loc>https://lgf.im/tags/md5/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/crypto/</loc>
+    <loc>https://lgf.im/tags/crypto/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/github/</loc>
+    <loc>https://lgf.im/tags/github/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/MITM/</loc>
+    <loc>https://lgf.im/tags/MITM/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/https/</loc>
+    <loc>https://lgf.im/tags/https/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/hijack/</loc>
+    <loc>https://lgf.im/tags/hijack/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/mysql/</loc>
+    <loc>https://lgf.im/tags/mysql/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/openssl/</loc>
+    <loc>https://lgf.im/tags/openssl/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/movie/</loc>
+    <loc>https://lgf.im/tags/movie/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/pirated/</loc>
+    <loc>https://lgf.im/tags/pirated/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/</loc>
+    <loc>https://lgf.im/tags/%E6%A0%91%E8%8E%93%E6%B4%BE/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/scan/</loc>
+    <loc>https://lgf.im/tags/scan/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/web/</loc>
+    <loc>https://lgf.im/tags/web/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/php/</loc>
+    <loc>https://lgf.im/tags/php/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/docker/</loc>
+    <loc>https://lgf.im/tags/docker/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/ipv6/</loc>
+    <loc>https://lgf.im/tags/ipv6/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/proxy/</loc>
+    <loc>https://lgf.im/tags/proxy/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/git/</loc>
+    <loc>https://lgf.im/tags/git/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/regex/</loc>
+    <loc>https://lgf.im/tags/regex/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/jsdelivr/</loc>
+    <loc>https://lgf.im/tags/jsdelivr/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/gulp/</loc>
+    <loc>https://lgf.im/tags/gulp/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/telegram/</loc>
+    <loc>https://lgf.im/tags/telegram/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/bot/</loc>
+    <loc>https://lgf.im/tags/bot/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/Github/</loc>
+    <loc>https://lgf.im/tags/Github/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/CICD/</loc>
+    <loc>https://lgf.im/tags/CICD/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/hexo/</loc>
+    <loc>https://lgf.im/tags/hexo/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/ucloud/</loc>
+    <loc>https://lgf.im/tags/ucloud/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/IP/</loc>
+    <loc>https://lgf.im/tags/IP/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/cracker/</loc>
+    <loc>https://lgf.im/tags/cracker/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/keygen/</loc>
+    <loc>https://lgf.im/tags/keygen/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/xray/</loc>
+    <loc>https://lgf.im/tags/xray/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/xss/</loc>
+    <loc>https://lgf.im/tags/xss/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/exam/</loc>
+    <loc>https://lgf.im/tags/exam/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/%E9%9B%A8%E8%AF%BE%E5%A0%82/</loc>
+    <loc>https://lgf.im/tags/%E9%9B%A8%E8%AF%BE%E5%A0%82/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/AI/</loc>
+    <loc>https://lgf.im/tags/AI/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/hash/</loc>
+    <loc>https://lgf.im/tags/hash/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/tags/attack/</loc>
+    <loc>https://lgf.im/tags/attack/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -951,35 +965,35 @@
 
   
   <url>
-    <loc>https://blog.lgf.im/categories/ctf/</loc>
+    <loc>https://lgf.im/categories/ctf/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/categories/coding/</loc>
+    <loc>https://lgf.im/categories/coding/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/categories/life/</loc>
+    <loc>https://lgf.im/categories/life/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/categories/share/</loc>
+    <loc>https://lgf.im/categories/share/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lgf.im/categories/docker/</loc>
+    <loc>https://lgf.im/categories/docker/</loc>
     <lastmod>2020-10-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
